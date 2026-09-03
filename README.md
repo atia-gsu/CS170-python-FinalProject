@@ -1,2 +1,2 @@
 # CS170-python-FinalProject
-I supervised student final projects focused on data analysis with real-world datasets in Python. Here you will find a selection of their work.
+I mentored students through their final Python projects using real-world data analysis. Here are a few examples of what they created.
