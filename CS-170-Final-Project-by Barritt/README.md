@@ -1,1 +1,1 @@
-Final Project for CS-170
+Final Project for CS-170 by Barritt.
