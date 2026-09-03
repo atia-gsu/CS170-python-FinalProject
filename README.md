@@ -1,2 +1,2 @@
-# CS170-python-FinalProject
-I mentored students through their final Python projects using real-world data analysis. Here are a few examples of what they created.
+# CS170-Final-Project
+My CS170 Final Project, analyzing the Kraggle Dataset, Data Science Salaries. Viewable at https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
