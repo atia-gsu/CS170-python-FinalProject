@@ -1,2 +1,2 @@
-# CS170-Final-Project
-Check inside the CS170-Final-Project-by Ashton folder to see all files of this project
+# CS170-python-FinalProject
+I mentored students through their final Python projects using real-world data analysis. Here are a few examples of what they created. Open each folder to explore the complete set of project files submitted by the students.
